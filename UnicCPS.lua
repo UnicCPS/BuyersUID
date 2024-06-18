@@ -1,3 +1,3 @@
-allowUserIds = {
+allowedUserIds = {
 "12345",
 }
